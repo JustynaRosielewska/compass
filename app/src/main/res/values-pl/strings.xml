@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kompas</string>
+    <string name="valid_degree_lat">Stopnie szerokości geograficznej muszą być w przedziale 0-90</string>
+    <string name="valid_degree_long">Stopnie długości geograficznej muszą być w przedziale 0-180</string>
+    <string name="valid_min">Minuty muszą być w przedziale 0-59</string>
+    <string name="valid_sec">Sekundy muszą być w przedziale 0-60</string>
+    <string name="valid_fill_data">Uzupełnij wszystkie wartości</string>
+    <string name="your_loc">Twoja lokalizacja: </string>
+    <string name="turn_on_gps">Aby ustalić pozycję włącz gps. </string>
+    <string name="no_magn">Na tym urządzeniu nie ma czujnika magnetycznego, aplikacja nie zadziała poprawnie ;( </string>
+    <string name="go">IDŹ</string>
+    <string name="search_loc">Szukam lokalizacji... </string>
+</resources>

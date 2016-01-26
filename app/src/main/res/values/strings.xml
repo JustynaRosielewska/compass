@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="valid_degree_lat">Degrees latitude must be in the range 0-90</string>
+    <string name="valid_degree_long">Degrees longitude must be in the range 0-180</string>
+    <string name="valid_min">Minutes must be in the range 0-59</string>
+    <string name="valid_sec">Seconds must be in the range 0-60</string>
+    <string name="valid_fill_data">Fill all data</string>
+    <string name="your_loc">Your location: </string>
+    <string name="turn_on_gps">To get your position turn on gps. </string>
+    <string name="no_magn">This device has not got Magnetometer, app will not work properly ;( </string>
+    <string name="search_loc">Searching location... </string>
+    <string name="go">GO</string>
+</resources>
